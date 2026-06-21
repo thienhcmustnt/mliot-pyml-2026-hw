@@ -13,13 +13,13 @@ Vào repo này trên GitHub, bấm nút **Fork** (góc trên bên phải) → Gi
 
 ### Bước 2 — Clone fork của bạn về máy
 ```bash
-git clone https://github.com/<ten-cua-ban>/Homework-summer-courses-2026.git
-cd Homework-summer-courses-2026
+git clone https://github.com/<ten-cua-ban>/mliot-pyml-2026-hw.git
+cd mliot-pyml-2026-hw
 ```
 
 ### Bước 3 — Thêm remote `upstream` trỏ về repo gốc
 ```bash
-git remote add upstream https://github.com/mliotlab/Homework-summer-courses-2026.git
+git remote add upstream https://github.com/mliotlab/mliot-pyml-2026-hw.git
 git remote -v          # kiem tra: co origin (fork cua ban) va upstream (repo goc)
 ```
 
